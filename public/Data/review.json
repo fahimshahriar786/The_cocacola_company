@@ -1,0 +1,67 @@
+[
+    {   
+        "id":1,
+        "name": "Jennifer of West Columbia, SC",
+        "logo": "J",
+        "star": 5,
+        "description": "The new Coke Zero formula tastes as if it has too much carbonation. In tasting a new bottle, the new formula burned my taste buds and left my tongue hurting for days. Anything I tried to eat or drink caused great pain! Terribly disappointed in Coke! "
+    },
+    {   
+        "id":2,
+        "name": "Theresa of Andover, MN",
+        "logo": "T",
+        "star": 3,
+        "description": "Coke...how could you do this to us Coke brand lovers AGAIN? You'd think you learned a lesson previously. Nope. The new red label Coke Zero Sugar is disgusting. I'll buy up all the black label I can. You had a winner but had to change it? Why? So unhappy. "
+    },
+    {   
+        "id":3,
+        "name": "Ray of Eglin Afb",
+        "logo": "R",
+        "star": 2,
+        "description": "The new Coke Zero is awful. The original version was very good, I hope Coke makes the original formula available again. Pepsi Zero is much better than the terrible new Coke Zero formula. I will buy Pepsi Zero if the original version of Coke Zero is not sold."
+    },
+    {   
+        "id":4,
+        "name": "Nicole of Island Park",
+        "logo": "N",
+        "star": 4,
+        "description": "I absolutely LOVE LOVE COKE ZERO! My favorite drink! When you are a Coke Zero drinker you DO NOT like flavors of regular soda! You don’t want the sweetness! You love it for the taste. That kick in the back of your throat. This new Coke Zero is so disappointing! There’s no WAY a real Coke Zero drinker tasted that and said wow!  "
+    },
+    {   
+        "id":5,
+        "name": "Rose Mary",
+        "logo": "R",
+        "star": 2,
+        "description": "WHY?? WHY?? Why did you change zero coke? Didn't you learn from the last time you tried to change coke? This new zero coke doesn't come close to the old zero. The new zero has an aftertaste and does not taste good at all. I have been drinking Zero Coke for years. But, it looks like I have to change to something else. "
+    },
+    {   
+        "id":6,
+        "name": "Heidi of Bath",
+        "logo": "H",
+        "star": 3,
+        "description": "Coke has always been my favorite soda - great fizzy taste. However, something has happened, and every time I crack open a Coke, it’s flat. I initially thought it was a Costco problem, but it happens everywhere I buy it. My whole family is very disappointed. I want to support the company, but I also want the good stuff back. "
+    },
+    {   
+        "id":7,
+        "name": "Ashlyn of Arlington",
+        "logo": "A",
+        "star": 4,
+        "description": "For all my life I LOVED Coca Cola! But this year something was a very strongly off on their soda but MORE worse, I bought cans of Coca Cola cherry and for some reason...It had a severe taste of BLEACH and smelled like BLEACH, tasting very super chemically! It still tasted sweet but very strongly chemically took over more "
+    },
+    {   
+        "id":8,
+        "name": "Evan of Schomberg",
+        "logo": "E",
+        "star": 1,
+        "description": "Have bought about 5 cases of coke (bottled) in the past 3-4 months and every single one is flat. EVERY SINGLE BOTTLE. As soon as you crack the cap, all you get is a tiny  and that's it. Switch to a PC or any other value brand over this crap. "
+    },
+    {   
+        "id":9,
+        "name": "Loretta of Bainbridge",
+        "logo": "L",
+        "star": 3,
+        "description": "I’m a retailer. Coca Cola is the worst out of 23 suppliers- they don’t want to make a sale and don’t care about their customers. We have begged for them to give us product on a regular basis but they refuse to make a sale. Very sad - "
+    }
+
+]
+
