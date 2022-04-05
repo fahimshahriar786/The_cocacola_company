@@ -1,15 +1,11 @@
 # Live Site Link
 
+( https://darling-rugelach-b5839c.netlify.app/ )
 
+## Work
 
-## Available Scripts
-
-### Rechart 
-
-NPM install recharts
-
-
-### React BootStrap
-
-npm install react-bootstrap bootstrap@5.1.3
+** Data HooK
+** Custom Link
+** Home page data slice
+** Navbar Routers 
 
