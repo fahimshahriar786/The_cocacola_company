@@ -20,10 +20,25 @@ function Home() {
            </div>
             
 
-           
+           <div className="reviews container">
+            <h1 className='review-heading'> Public Reviews</h1>
+            <div className="review">
+
+               {
+                   reviews.slice(0,3).map(review => {
+                      return(
+                          <Card key={review.id} review={review}/>
+                      )
+                   })
+               }
+
+                
+            </div>
+            <Link className='btn btn-primary  mt-5' to="/review">See All Reviews</Link>
+        </div>
 
 
-           
+
         </section>
     )
 }
