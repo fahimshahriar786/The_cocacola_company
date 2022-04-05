@@ -1,0 +1,12 @@
+.headerBox{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.headerText{
+    display: flex;
+    align-items: center;
+    font-size: larger;
+    justify-content: space-between;
+}
