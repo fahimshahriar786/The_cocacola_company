@@ -34,7 +34,7 @@ function Home() {
 
                 
             </div>
-            <Link className='btn btn-primary  mt-5' to="/review">See All Reviews</Link>
+            <Link className='btn btn-danger rounded-pill  mt-5' to="/review">See All Reviews</Link>
         </div>
 
 
