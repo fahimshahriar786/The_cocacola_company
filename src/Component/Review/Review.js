@@ -8,7 +8,7 @@ function Review() {
     const [reviews , setReview]  = useReview()
     return (
         <div className="reviews container">
-            <h1 className='review-heading'>Customer Reviews</h1>
+            <h1 className='review-heading'>Public Reviews</h1>
             <div className="review">
 
                {
