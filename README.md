@@ -4,8 +4,8 @@
 
 ## Work
 
-** Data HooK
-** Custom Link
-** Home page data slice
-** Navbar Routers 
+* Data HooK
+* Custom Link
+* Home page data slice
+* Navbar Routers 
 
